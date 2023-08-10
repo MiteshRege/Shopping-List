@@ -94,6 +94,7 @@ header h1 {
 
 .btn-clear:hover {
   background-color: #f1f1f1;
+  
 }
 
 .text-red {
@@ -107,7 +108,9 @@ header h1 {
   display: flex;
   flex-wrap: wrap;
 }
-
+.edit-mode{
+  color: #ccc;
+}
 .items li {
   display: flex;
   justify-content: space-between;
